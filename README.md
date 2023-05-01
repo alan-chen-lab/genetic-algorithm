@@ -10,7 +10,7 @@ SGA/GA/PSO/MOGA/SA
 Performed path planning through genetic algorithms in self-created scenarios, and compare different path-planning algorithm (A*).
 * FlowChart:
 
-<img src="/picture/flowchart.PNG" width = "300" height = "400" alt="flowchart" align=center />
+<img src="/picture/flowchart.PNG" width = "350" height = "400" alt="flowchart" align=center />
  
 * Result:
 
