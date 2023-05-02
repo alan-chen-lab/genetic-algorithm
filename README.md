@@ -8,6 +8,9 @@ SGA/GA/PSO/MOGA/SA
 2. [random map](https://github.com/alan-chen-lab/genetic-algorithm/blob/master/path_planning%20of%20GA(random%20map).py)
 
 Performed path planning through genetic algorithms in self-created scenarios, and compare different path-planning algorithm (A*).
+
+***
+
 * FlowChart:
 
 <img src="/picture/flowchart.PNG" width = "350" height = "400" alt="flowchart" align=center />
